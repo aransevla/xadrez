@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Peca.cs" />
+    <Compile Include="Posicao.cs" />
+    <Compile Include="CORClass2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tabuleiro.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
