@@ -43,13 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Peca.cs" />
-    <Compile Include="Posicao.cs" />
-    <Compile Include="CORClass2.cs" />
+    <Compile Include="tabuleiro\Peca.cs" />
+    <Compile Include="tabuleiro\Posicao.cs" />
+    <Compile Include="tabuleiro\CORClass2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tabuleiro.cs" />
+    <Compile Include="xadrez\Rei.cs" />
+    <Compile Include="tabuleiro\Tabuleiro.cs" />
     <Compile Include="Tela.cs" />
+    <Compile Include="xadrez\Torre.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

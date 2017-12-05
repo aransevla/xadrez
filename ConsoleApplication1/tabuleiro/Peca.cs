@@ -19,8 +19,9 @@ namespace tabuleiro {
 
         }
 
-
-
-
+        public Peca(Tabuleiro tab, Cor cor) {
+            this.tab = tab;
+            this.cor = cor;
+        }
     }
 }
