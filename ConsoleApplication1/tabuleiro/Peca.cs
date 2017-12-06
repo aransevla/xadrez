@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using xadrez;
+using tabuleiro;
 
 namespace tabuleiro {
     class Peca {
@@ -22,6 +20,10 @@ namespace tabuleiro {
         public Peca(Tabuleiro tab, Cor cor) {
             this.tab = tab;
             this.cor = cor;
+        }
+
+        public void incrementarQteMovimentos () {
+            qMovimentos++;
         }
     }
 }
