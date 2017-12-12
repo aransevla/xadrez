@@ -1,6 +1,6 @@
-﻿using System;
+﻿
 using tabuleiro;
-using xadrez;
+
 
 namespace xadrez {
     class PosicaoXadrez {
@@ -19,5 +19,5 @@ namespace xadrez {
             return "" + coluna + linha;
         }
     }
-    }
+}
 

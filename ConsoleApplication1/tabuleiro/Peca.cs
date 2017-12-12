@@ -3,7 +3,7 @@ using xadrez;
 using tabuleiro;
 
 namespace tabuleiro {
-    class Peca {
+    abstract class Peca {
         public Posicao posicao { get; set; }
         public Cor cor { get; protected set; }
         public int qMovimentos { get; protected set; }
@@ -25,5 +25,6 @@ namespace tabuleiro {
         public void incrementarQteMovimentos () {
             qMovimentos++;
         }
+        public abstract bool[,] movimentosPossiveis();
     }
 }

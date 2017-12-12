@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using tabuleiro;
+using xadrez;
 
 namespace tabuleiro {
     class Posicao {
@@ -11,6 +9,10 @@ namespace tabuleiro {
         public int coluna { get; set; }
 
         public Posicao(int linha, int coluna) {
+            this.linha = linha;
+            this.coluna = coluna;
+        }
+        public void definirValores (int linha, int coluna) {
             this.linha = linha;
             this.coluna = coluna;
         }
