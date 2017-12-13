@@ -10,4 +10,3 @@ D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
