@@ -10,3 +10,10 @@ D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\zumii\Desktop\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

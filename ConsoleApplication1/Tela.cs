@@ -13,6 +13,9 @@ namespace tabuleiro {
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
             Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
+            Console.WriteLine(partida.xeque); { 
+                Console.WriteLine("XEQUE!");
+            }
             
 
         }
