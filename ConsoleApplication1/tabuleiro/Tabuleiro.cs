@@ -21,6 +21,7 @@ namespace tabuleiro {
             return pecas[linhas, coluna];
         }
         public Peca peca (Posicao pos) {
+
             return pecas[pos.linha, pos.coluna];
         }
         public bool existePeca (Posicao pos) {
