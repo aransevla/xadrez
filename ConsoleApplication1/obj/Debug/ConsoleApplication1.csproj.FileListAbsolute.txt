@@ -5,3 +5,9 @@ C:\Users\aluno\Downloads\xadrez-20171212T103603Z-001\xadrez\ConsoleApplication1\
 C:\Users\aluno\Downloads\xadrez-20171212T103603Z-001\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\aluno\Downloads\xadrez-20171212T103603Z-001\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\aluno\Downloads\xadrez-20171212T103603Z-001\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\xadrez\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\xadrez\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

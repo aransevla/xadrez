@@ -30,7 +30,7 @@ namespace ConsoleApplication1 {
                         Console.WriteLine();
                         Console.Write("Destino: ");
                         Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
-
+                        partida.ExecutaMovimento(origem, destino);
 
                     }
 
