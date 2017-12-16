@@ -17,15 +17,26 @@ namespace tabuleiro {
 
         }
 
+        public void incrementarQMovimentos()
+        {
+            qMovimentos++;
+        }
+        
+
+        public void decrementarQMovimentos()
+        {
+            qMovimentos--;
+        }
+
         public Peca(Tabuleiro tab, Cor cor) {
             this.tab = tab;
             this.cor = cor;
         }
 
-        public void incrementarQteMovimentos () {
+        public void incrementarqMovimentos () {
             qMovimentos++;
         }
-        public void decrementarQteMovimentos()
+        public void decrementarqMovimentos()
         {
             qMovimentos--;
         }
